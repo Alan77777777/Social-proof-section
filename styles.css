@@ -26,7 +26,7 @@ body {
     background-image: url(/images/bg-pattern-top-mobile.svg);
     background-repeat: no-repeat;
     background-position: left 10vw top 0vh;
-    min-height: 600vh;
+    min-height: 100vh;
 }
 
 .top-content {
@@ -119,6 +119,10 @@ h1 {
 
 .name {
     padding-top: 1.3rem;
+}
+
+.attribution {
+    padding-bottom: 20px;
 }
 
 @media(min-width: 1200px) {
